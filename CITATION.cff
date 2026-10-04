@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use these data, please cite the paper below.
+type: dataset
+title: "Data for: Open quantum sensing data for health and energy applications: A screening of availability and gaps"
+authors:
+  - family-names: "Lehtinen"
+    given-names: "Anna"
+license: "CC-BY-4.0"
+url: "https://github.com/annalehtinen/quantum-sensing-open-data-availability"
+keywords:
+  - "quantum sensing"
+  - "open data"
+  - "dataset census"
+  - "OPM-MEG"
+  - "data landscape"
+  - "negative result"
+  - "screening"
+  - "synthetic data"
+  - "energy data"
+  - "health data"
+preferred-citation:
+  type: report
+  title: "Open quantum sensing data for health and energy applications: A screening of availability and gaps"
+  authors:
+    - family-names: "Lehtinen"
+      given-names: "Anna"
+  doi: "10.5281/zenodo.23138448"
+  publisher:
+    name: "Zenodo"
+  year: 2026

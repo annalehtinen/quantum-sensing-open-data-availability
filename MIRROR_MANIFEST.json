@@ -1,0 +1,18 @@
+{
+ "schema": "github_mirror_manifest",
+ "version": 1,
+ "repository": "annalehtinen/quantum-sensing-open-data-availability",
+ "release_version": "1.0.0",
+ "title": "Data for: Open quantum sensing data for health and energy applications: A screening of availability and gaps",
+ "paper_doi": "10.5281/zenodo.23138448",
+ "licence_id": "cc-by-4.0",
+ "committed_files": [
+  {
+   "path": "census_table.csv",
+   "bytes": 10011,
+   "sha256": "0a9ce573ad07b05641ba7350ed05324843619e70276e63a9950c673b45fed3ea"
+  }
+ ],
+ "release_assets": [],
+ "left_out": []
+}
